@@ -8,4 +8,4 @@ age: int = currentYear - birthYear
 if birthDay == "N":
     age -= 1
 
-print(age)
+print("Your age: ",age)
